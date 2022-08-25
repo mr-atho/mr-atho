@@ -26,7 +26,7 @@
 </p>
 
 ## Most Used
-<p align="left"><img src="https://camo.githubusercontent.com/d0b8273b2a83b73fc79a9832d2befe894ad5af0654cf8f2ba425a35f7c8185fc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d73616b74696275616e612673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374267468656d653d6e696768746f776c" alt="mr-atho" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-atho&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=nightowl" style="max-width: 100%;"></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-atho&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=nightowl" alt="mr-atho" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-atho&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=nightowl" style="max-width: 100%;"></p>
 
 ## Tools
 <p align="left">   
