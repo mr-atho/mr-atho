@@ -39,11 +39,7 @@
 
 ## Most Used
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-atho&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=nightowl" alt="mr-atho" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-atho&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=nightowl" style="max-width: 100%;"></p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-atho" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-atho)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-atho)
 
 ## Status
 
