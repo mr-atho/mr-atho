@@ -43,6 +43,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-atho" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-atho=vim%20script)]
+
 ## Status
 
-![Mr-Atho GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-atho&show_icons=true&theme=nightowl)
+![Mr-Atho GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-atho&show_icons=true&theme=transparent)
